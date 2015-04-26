@@ -1,4 +1,3 @@
-## Put comments here that give an overall description of what your
 ## These functions are used to create a cache of a matrix and solve to find the inverse of the cached matrix
 
 # Example of function usage
